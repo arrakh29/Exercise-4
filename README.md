@@ -39,8 +39,3 @@ LED Hijau dan Merah akan berkedip selama eksekusi tugas berlangsung. Jika terjad
    - **Prioritas:** Dapat diatur ulang dalam eksperimen
 
 ## **Cara Menggunakan**
-### **Persiapan Awal**
-1. **Kloning Repository**
-   ```bash
-   git clone https://github.com/username/priority-preemptive-scheduling.git
-   cd priority-preemptive-scheduling
