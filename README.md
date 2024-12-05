@@ -44,4 +44,4 @@ LED Hijau dan Merah akan berkedip selama eksekusi tugas berlangsung. Jika terjad
 <img src="system%20task%20diagram4.png" alt="Pinout Diagram" style="max-width: 600px; height: auto;">
 
 ## Uji Coba
-<img src="Ex_4.gif" alt="Uji Coba GIF" width="400" height="300">
+<img src="Ex_4.gif" alt="Uji Coba GIF" width="400" style="height: auto;">
